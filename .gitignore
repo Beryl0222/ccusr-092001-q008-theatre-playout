@@ -1,4 +1,7 @@
 .env
+*.db
+*.db-wal
+*.db-shm
 *.key
 *.pem
 node_modules/
